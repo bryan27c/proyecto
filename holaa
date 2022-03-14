@@ -1,0 +1,3 @@
+ System.out.println("Bancari: ");
+        String Bancari = teclat.next();
+        teclat.nextLine();
